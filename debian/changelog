@@ -1,3 +1,9 @@
+libnagios-plugin-www-mechanize-perl (0.12-1ubuntu1) trusty; urgency=medium
+
+  * Backport to Ubuntu trusty. 
+
+ -- Raphaël 'SurcouF' Bordet <surcouf@debianfr.net>  Sat, 09 May 2015 18:47:06 +0200
+
 libnagios-plugin-www-mechanize-perl (0.12-1) unstable; urgency=low
 
   * Initial Release.
